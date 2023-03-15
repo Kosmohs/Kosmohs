@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey, I'm Kos, a beginning back-end developer from Kz.
+My last job as an audit company staff made me think of studying coding, and now I'm in here trying eventually to become some good developer to be able to make a change .. maybe, we'll see.
+You can browse around my repositories all you like, have fun.
+Have a good coding!
+
+And now, ... wake up
 
 <!--
 **Kosmohs/Kosmohs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
