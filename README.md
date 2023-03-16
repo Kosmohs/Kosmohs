@@ -13,12 +13,11 @@
 <p align="left">
   <img src="oNpHTW.gif" height="100"/>
 </p>
-<p>A little about me</p>
+<h2>A little about me</h2>
 
 ```yaml
 *name: Konstantin Nogay
 located_in: Almaty, Kazakhstan
-current_job: Back-end Developer
 education:
   [
     "Self-Taught Developer",
