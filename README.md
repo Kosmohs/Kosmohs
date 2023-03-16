@@ -12,8 +12,8 @@
 
 <p align="center">
   <img src="oNpHTW.gif"/>
-</p>-->
-<!--width="900" height="150"
+</p>
+<!--width="900" height="150" -->
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
