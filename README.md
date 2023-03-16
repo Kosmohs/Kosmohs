@@ -15,8 +15,8 @@
 </p>
 <h2>A little about me</h2> -->
 
-```yaml
-*name: Konstantin Nogay
+```yaml*
+name: Konstantin Nogay
 located_in: Almaty, Kazakhstan
 education:
   [
