@@ -9,7 +9,7 @@
   <img height="50" src="instagram.png" style="text-align:center;"/>
 </a>
 
-<p style="text-align:center;">
+<p align="center">
   <img src="code-rain-from-The-Matrix-nostalgia.gif"/>
 </p>
 
