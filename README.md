@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?text=Hello,%20world!-nl-I'm%20Kos&animation=fadeIn&fontSize=40&Desc&descSize=20&type=waving&color=gradient&height=100"/>
 </p>
 
-<a href="https://www.instagram.com/mama_calls_me_kosmos/">
+<a href="https://www.instagram.com/mama_calls_me_kosmos/" style="centered">
   <img height="50" src="IG_icon.png"/>
 </a>
 <a href="https://www.linkedin.com/in/konstantin-nogay/">
