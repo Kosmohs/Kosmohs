@@ -1,4 +1,4 @@
-<p align="center">
+<!--<p align="center"> -->
 <p style="background-image: url('The-Matrix-Active-Wallpaper-Windows-10-Matrix-Windows-10-.gif');">
 <img src="https://capsule-render.vercel.app/api?text=Hello,%20world!-nl-I'm%20Kos&animation=fadeIn&fontSize=40&Desc&descSize=20&type=transparent&height=100"/>
 </p>
