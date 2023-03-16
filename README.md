@@ -3,13 +3,6 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/konstantin-nogay/">
-  <img height="50" src="linkedin.png"/>
-</a>
-<a href="https://www.instagram.com/mama_calls_me_kosmos/"> 
-  <img height="50" src="instagram.png"/>
-</a>
-
 <!--<p align="left">
   <img src="oNpHTW.gif" height="100"/>
 </p>
@@ -26,7 +19,12 @@ education:
   ]
 company: _ 
 ```
-
+<a href="https://www.linkedin.com/in/konstantin-nogay/">
+  <img height="50" src="linkedin.png"/>
+</a>
+<a href="https://www.instagram.com/mama_calls_me_kosmos/"> 
+  <img height="50" src="instagram.png"/>
+</a>
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
 My last job as an audit-company staff made me think of studying coding, and now I'm in here trying to eventually become some good developer to be able to make a change .. maybe, we'll see.
