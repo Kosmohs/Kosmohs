@@ -1,6 +1,10 @@
 Hello!
 
-<img src="[/path/to/img](https://images.unsplash.com/photo-1504221507732-5246c045949b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80).jpg" alt="Alt text" title="Optional title">
+<img
+  src="https://github.com/Kosmohs/Kosmohs/blob/main/adrien-converse-FWhTeWRCeis-unsplash%20(1).jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
