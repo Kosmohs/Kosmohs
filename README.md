@@ -15,8 +15,8 @@
 </p>
 <p>A little about me</p>
 
-```yaml
-* name: Konstantin Nogay
+```yaml *
+name: Konstantin Nogay
 located_in: Almaty, Kazakhstan
 current_job: Back-end Developer
 education:
@@ -25,8 +25,8 @@ education:
     "Master's in Technology Management",
     "Bachelor's in Chemical technology of organic substances",
   ]
-company: _ *
-```
+company: _ 
+*```
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
