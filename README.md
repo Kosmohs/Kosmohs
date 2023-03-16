@@ -26,8 +26,8 @@ education:
     "Bachelor's in Chemical technology of organic substances",
   ]
 company: _
-
-*```
+*
+'''
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
