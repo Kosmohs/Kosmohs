@@ -1,8 +1,7 @@
 <div class="container">
   <img src="https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png" alt="Snow" style="width:100%;">
-  <div class="centered">Hello!</div>
+  <h2>Hello!</h2>
 </div>
-
 
 <!-- <p style="background-image: url('https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png');"> -->
 
