@@ -1,7 +1,7 @@
 Hello!
 
 <img
-  src="https://github.com/Kosmohs/Kosmohs/blob/main/adrien-converse-FWhTeWRCeis-unsplash%20(1).jpg"
+  src="https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-height: 100px; max-width: 300px">
