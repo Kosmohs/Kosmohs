@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <img src="tumblr_matrix.gif"/>
+  <img width="900" height="150" src="tumblr_matrix.gif"/>
 </p>
 <!--width="900" height="150"-->
 
