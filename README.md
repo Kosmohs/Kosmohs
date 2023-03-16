@@ -8,6 +8,8 @@
 <a href="https://www.instagram.com/mama_calls_me_kosmos/"> 
   <img height="50" src="instagram.png" style="text-align:center;"/>
 </a>
+<img src="code-rain-from-The-Matrix-nostalgia.gif"/>
+
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
