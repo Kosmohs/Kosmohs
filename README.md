@@ -1,4 +1,4 @@
-![](https://rezmason.github.io/matrix/?skipIntro=false)
+https://rezmason.github.io/matrix/?skipIntro=false
 
 
 
