@@ -1,10 +1,12 @@
-Hello!
+<p align="center">
+  <img src="https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png" ?text=Hey Everyone!/>
+</p>
 
-<img
+<!--<img
   src="https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-height: 100px; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-height: 100px; max-width: 300px"> -->
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
