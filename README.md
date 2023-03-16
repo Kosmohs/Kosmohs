@@ -15,7 +15,7 @@
 </p>
 <h2>A little about me</h2> -->
 
-```yaml*
+```yaml
 name: Konstantin Nogay
 located_in: Almaty, Kazakhstan
 education:
@@ -24,7 +24,7 @@ education:
     "Master's in Technology Management",
     "Bachelor's in Chemical technology of organic substances",
   ]
-company: _ *
+company: _ 
 ```
 
 
