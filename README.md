@@ -6,9 +6,9 @@
   <img class="centerImage" height="50" src="IG_icon.png"/>
 </a>
 <a href="https://www.linkedin.com/in/konstantin-nogay/">
-  <img height="50" src="in_icon.png"/ class="center">
+  <img height="50" src="in_icon.png"/ class="centerImage">
 </a>
-<!--style="align:center"-->
+
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
 My last job as an audit-company staff made me think of studying coding, and now I'm in here trying to eventually become some good developer to be able to make a change .. maybe, we'll see.
 You can browse around my repositories all you like, have fun.
