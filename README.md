@@ -10,9 +10,9 @@
 </a>
 
 <p align="center">
-  <img width="900" height="150" src="hello-world.gif"/>
+  <img src="tumblr_matrix.gif"/>
 </p>
-
+<!--width="900" height="150"-->
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
