@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="[https://rezmason.github.io/matrix/?skipIntro=false]?>
-</p>
+![](https://rezmason.github.io/matrix/?skipIntro=false])
+
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
