@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <img width="500" src="hello-world.gif"/>
+  <img width="1000" src="hello-world.gif"/>
 </p>
 
 
