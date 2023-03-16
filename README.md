@@ -3,7 +3,7 @@
 </p>
 
 <a href="https://www.instagram.com/mama_calls_me_kosmos/">
-  <img height="50" src="IG_icon.png"/ style="text-align:center">
+  <img height="50" src="IG_icon.png"/ style="align:center">
 </a>
 <a href="https://www.linkedin.com/in/konstantin-nogay/">
   <img height="50" src="in_icon.png"/ class="center">
