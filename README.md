@@ -13,42 +13,21 @@
 <p align="left">
   <img src="oNpHTW.gif" height="100"/>
 </p>
+<p>A little about me</p>
 
-```yaml
-* 
+```yaml* 
 name: Konstantin Nogay
 located_in: Almaty, Kazakhstan
-current_job: Full Stack Developer
+current_job: Back-end Developer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught Developer",
+    "Master's in Technology Management",
+    "Bachelor's in Chemical technology of organic substances",
   ]
-company: Soulber
+company: _
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-*
-```
+*```
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
