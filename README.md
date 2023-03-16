@@ -1,5 +1,6 @@
-![](https://cutewallpaper.org/21/matrix-gif-background/History-Of-Computers-Luis-Sandoval-portfolio.gif)
+Hello!
 
+<img src="[/path/to/img](https://images.unsplash.com/photo-1504221507732-5246c045949b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80).jpg" alt="Alt text" title="Optional title">
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
