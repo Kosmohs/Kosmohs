@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?text=Hello,%20world!-nl-I'm%20Kos&animation=fadeIn&fontSize=40&Desc&descSize=20&type=waving&color=gradient&height=100"/>
-</p>
+
 
   <a href="https://www.instagram.com/mama_calls_me_kosmos/">
     <img height="50" src="IG_icon.png" style="centered"/>
@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/konstantin-nogay/">
     <img height="50" src="in_icon.png"/>
   </a>
-
+</p>
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
 My last job as an audit-company staff made me think of studying coding, and now I'm in here trying to eventually become some good developer to be able to make a change .. maybe, we'll see.
 You can browse around my repositories all you like, have fun.
