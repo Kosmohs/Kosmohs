@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <img src="code-rain-from-The-Matrix-nostalgia.gif"/>
+  <img src="hello-world.gif"/>
 </p>
 
 
