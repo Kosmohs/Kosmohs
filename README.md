@@ -10,8 +10,8 @@
   <img height="50" src="instagram.png"/>
 </a>
 
-<p align="center">
-  <img src="oNpHTW.gif"/>
+<p align="left">
+  <img src="oNpHTW.gif" height="100"/>
 </p>
 <!--width="900" height="150" -->
 
