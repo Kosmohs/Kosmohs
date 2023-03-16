@@ -1,5 +1,6 @@
-<div id="code"></div>
-<h1 id="message">Hello!!!</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
