@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://rezmason.github.io/matrix/?skipIntro=false)>
+  <img src="[https://rezmason.github.io/matrix/?skipIntro=false]>
 </p>
 
 
