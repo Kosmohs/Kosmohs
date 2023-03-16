@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png" ?text=Hey Everyone!/>
+  <img src="https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png/text=Hey Everyone!"/>
 </p>
 
 <!--<img
