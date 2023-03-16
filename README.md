@@ -4,7 +4,7 @@ Hello!
   src="https://github.com/Kosmohs/Kosmohs/blob/main/adrien-converse-FWhTeWRCeis-unsplash%20(1).jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-height: 100px; max-width: 300px">
 
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
