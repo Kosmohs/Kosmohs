@@ -1,20 +1,6 @@
-<div class="container">
-  <img src="https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png" alt="Snow" style="width:100%;">
-  <h2>Hello!</h2>
-</div>
-
-<!-- <p style="background-image: url('https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png');"> -->
-
-<!-- <p align="center">
-  <img src="https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png"/>
-</p> -->
-
-<!--<img
-  src="https://github.com/Kosmohs/Kosmohs/blob/main/Screenshot%202023-03-16%20at%203.53.56%20PM.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-height: 100px; max-width: 300px"> -->
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?text=Hey!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
 My last job as an audit-company staff made me think of studying coding, and now I'm in here trying to eventually become some good developer to be able to make a change .. maybe, we'll see.
