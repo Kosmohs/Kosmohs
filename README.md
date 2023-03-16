@@ -3,7 +3,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/konstantin-nogay/">
-  <img style="text-align:center"  height="50" src="linkedin.png"/>
+  <img style="align:center"  height="50" src="linkedin.png"/>
 </a>
 <a href="https://www.instagram.com/mama_calls_me_kosmos/"> 
   <img height="50" src="instagram.png" />
