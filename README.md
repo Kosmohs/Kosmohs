@@ -10,10 +10,10 @@
   <img height="50" src="instagram.png"/>
 </a>
 
-<p align="left">
+<!--<p align="left">
   <img src="oNpHTW.gif" height="100"/>
 </p>
-<h2>A little about me</h2>
+<h2>A little about me</h2> -->
 
 ```yaml
 *name: Konstantin Nogay
