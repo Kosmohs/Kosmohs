@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/mama_calls_me_kosmos/"> 
   <img height="50" src="instagram.png" style="text-align:center;"/>
 </a>
-<img src="code-rain-from-The-Matrix-nostalgia.gif" style="align:center"/>
+<center><img src="code-rain-from-The-Matrix-nostalgia.gif"/></center>
 
 
 
