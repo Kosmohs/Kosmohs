@@ -6,7 +6,7 @@
   <img height="50" src="IG_icon.png"/>
 </a>
 <a href="https://www.linkedin.com/in/konstantin-nogay/">
-  <img height="50" src="in_icon.png"/>
+  <img height="50" src="in_icon.png"/ class="position:center">
 </a>
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
