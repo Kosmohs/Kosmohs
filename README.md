@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api](https://rezmason.github.io/matrix/?skipIntro=false)?>
+  <img src="(https://rezmason.github.io/matrix/?skipIntro=false)>
 </p>
 
 
