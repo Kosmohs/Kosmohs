@@ -1,11 +1,6 @@
-<!--<p align="center">
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?text=Hello,%20world!-nl-I'm%20Kos&animation=fadeIn&fontSize=40&Desc&descSize=20&type=transparent&height=100"/>
-</p>-->
-
-<div class="container">
-  <img src="The-Matrix-Active-Wallpaper-Windows-10-Matrix-Windows-10-.gif">
-  <div class="centered">Hello</div>
-</div>
+</p>
 
 
 <a href="https://www.linkedin.com/in/konstantin-nogay/">
