@@ -15,7 +15,7 @@
 </p>
 <p>A little about me</p>
 
-```yaml *
+```yaml*
 name: Konstantin Nogay
 located_in: Almaty, Kazakhstan
 current_job: Back-end Developer
