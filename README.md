@@ -11,7 +11,7 @@
 </a>
 
 <p align="center">
-  <img width="900" height="150" src="oNpHTW.gif"/>
+  <img src="oNpHTW.gif"/>
 </p>-->
 <!--width="900" height="150"
 
