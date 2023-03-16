@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hello,%20world!-nl-I'm%20Kos&animation=fadeIn&fontSize=40&desc=Desc&descSize=50&type=waving&color=gradient&height=100"/>
+<img src="https://capsule-render.vercel.app/api?text=Hello,%20world!-nl-I'm%20Kos&animation=fadeIn&fontSize=40&desc=descSize=50&type=waving&color=gradient&height=100"/>
 </p>
 
 <!-- ### Hey, I'm Kos, a beginning back-end developer from Kz.
